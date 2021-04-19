@@ -1,1 +1,1 @@
-# Shareware Resources
+# Shareware examples
