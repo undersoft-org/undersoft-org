@@ -1,4 +1,4 @@
 # Conceptual resources
 
-Attention !! 
-To hinder the use of repositories by incompetent or insufficiently advanced persons for a malicious purpose. Most of the comments have been removed and the source code may intentionally contain hidden bugs ;)
+Caution !!
+Preventing the use of source code by people who are incompetent or insufficiently advanced for malicious purposes. Most of the comments have been removed and the source code may contain hidden bugs on purpose;)
