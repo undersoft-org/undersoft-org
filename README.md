@@ -1,5 +1,5 @@
-# Undersoft Open Sources
+# Undersoft Open Source
 
-Undersoft Software Development Kits
+Undersoft Software Development Kit
 
 Undersoft Shared Service Center Solutions
