@@ -1,8 +1,8 @@
-## Undersoft Samples Suite 
-### Software Development Kit 
+## Undersoft Suite 
+### Undersoft Software Development Kit Usage Samples 
 #### Shared Service Center - Shared Vaccination Center - Shared Contact Center - Global Currency Converter
 
-This is part of portfolio and skills presenting web application with operational data service tier. Provide synchronization for corelated concurrent and parallel hypergraphs with bussines process workflow features for various designs and implementations of generated as single code based hybrid applications.
+This is part of portfolio and skills presenting web application with operational data service tier. Various designs and implementations of generated as single code based hybrid applications.
 
 <img src="https://github.com/user-attachments/assets/d055665b-de9f-4683-959c-c439a8da4291" width=50% height=50% />
 <img src="https://github.com/user-attachments/assets/4d1a54ed-b8da-47ad-8452-3e0000dd2183" width=13% height=13% />
