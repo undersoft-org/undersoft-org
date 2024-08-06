@@ -4,9 +4,9 @@
 
 Open source conceptual resources to develop distributed, scalable, multi tenant web application in N-Tier architecture. Front tier with single code base hybrid web assembly, android, windows clients. Application tier with application server. Service tier with administration server and operational data services. Data tier with database stores (available: npgsql, mysql, mariadb, sqlserver, oracle, mongo, sqlite, cosmodb, azuresql, inmemorydb) and blob/file storages.       
 
-#### SDK Benchmarks: [https://github.com/undersoft-org/Undersoft.Suite/tree/master/src/SoftwareDevelopmentKit/bench/Undersoft.SDK.Benchmarks](https://github.com/undersoft-org/Undersoft.Suite/tree/master/src/SoftwareDevelopmentKit/bench/Undersoft.SDK.Benchmarks)
+SDK benchmarks: [https://github.com/undersoft-org/Undersoft.Suite/tree/master/src/SoftwareDevelopmentKit/bench/Undersoft.SDK.Benchmarks](https://github.com/undersoft-org/Undersoft.Suite/tree/master/src/SoftwareDevelopmentKit/bench/Undersoft.SDK.Benchmarks)
 
-#### More Details: [https://github.com/undersoft-org/undersoft-org/Undersoft.Suite/src/SharedVaccinationCenter/docs/design/vaccination_software_design_album](https://github.com/undersoft-org/Undersoft.Suite/tree/master/src/SharedVaccinationCenter/docs/design/vaccination_software_design_album/solution)
+More details: [https://github.com/undersoft-org/undersoft-org/Undersoft.Suite/src/SharedVaccinationCenter/docs/design/vaccination_software_design_album](https://github.com/undersoft-org/Undersoft.Suite/tree/master/src/SharedVaccinationCenter/docs/design/vaccination_software_design_album/solution)
 
 <img src="https://github.com/user-attachments/assets/d055665b-de9f-4683-959c-c439a8da4291" width=50% height=50% />
 <img src="https://github.com/user-attachments/assets/4d1a54ed-b8da-47ad-8452-3e0000dd2183" width=13% height=13% />
