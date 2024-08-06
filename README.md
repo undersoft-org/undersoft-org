@@ -6,10 +6,10 @@ Open source conceptual resources to develop distributed, scalable, multi tenant 
 
 Benchmarks: 
 [https://github.com/undersoft-org/Undersoft.Suite/tree/master/src/SoftwareDevelopmentKit/bench/Undersoft.SDK.Benchmarks](https://github.com/undersoft-org/Undersoft.Suite/tree/master/src/SoftwareDevelopmentKit/bench/Undersoft.SDK.Benchmarks)
-
+<small>
 Screenshots: 
 [https://github.com/undersoft-org/undersoft-org/Undersoft.Suite/src/SharedVaccinationCenter/docs/design/vaccination_software_design_album](https://github.com/undersoft-org/Undersoft.Suite/tree/master/src/SharedVaccinationCenter/docs/design/vaccination_software_design_album/solution)
-
+</small>
 <img src="https://github.com/user-attachments/assets/d055665b-de9f-4683-959c-c439a8da4291" width=50% height=50% />
 <img src="https://github.com/user-attachments/assets/4d1a54ed-b8da-47ad-8452-3e0000dd2183" width=13% height=13% />
 <img src="https://github.com/user-attachments/assets/b946504b-c4cf-403e-aa78-14f38377b316" width=28% height=28% />
