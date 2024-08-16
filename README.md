@@ -4,9 +4,10 @@
 
 Open source conceptual resources to develop distributed, scalable, multi tenant web application in N-Tier architecture. Front tier with single code base hybrid web assembly, android, windows clients. Application tier with application server. Service tier with administration server and operational data services. Data tier with database stores (available: npgsql, mysql, mariadb, sqlserver, oracle, mongo, sqlite, cosmodb, azuresql, inmemorydb) and blob/file storages.       
 
+Latest Add:
 Plot.GetQuickPath: 
 ShortestPathDijkstra algorithm modification by replacing UpdatePriority to DequeueEnqueue. UpdatePriority is not available in .NET 8, System.Collections.Generic.PriorityQueue. [https://github.com/undersoft-org/Undersoft.Suite/blob/5053c6de6b45cdc8b7f502e8f2acdd5f6618e689/src/SoftwareDevelopmentKit/src/Undersoft.SDK/Series/Complex/Plot/Plot.cs#L139](https://github.com/undersoft-org/Undersoft.Suite/blob/5053c6de6b45cdc8b7f502e8f2acdd5f6618e689/src/SoftwareDevelopmentKit/src/Undersoft.SDK/Series/Complex/Plot/Plot.cs#L139) 
-FirstTests: 
+First Tests: 
 [https://github.com/undersoft-org/Undersoft.Suite/blob/5053c6de6b45cdc8b7f502e8f2acdd5f6618e689/src/SoftwareDevelopmentKit/tests/Undersoft.SDK.Tests/Series/Complex/PlotTest.cs](https://github.com/undersoft-org/Undersoft.Suite/blob/5053c6de6b45cdc8b7f502e8f2acdd5f6618e689/src/SoftwareDevelopmentKit/tests/Undersoft.SDK.Tests/Series/Complex/PlotTest.cs)
 
 SDK Benchmarks: 
